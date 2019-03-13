@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Zadanie domowe 1</string>
+    <string name="user_name">Julianna Carter</string>
+    <string name="user_profession">Photographer</string>
+    <string name="posts">posts</string>
+    <string name="followers">followers</string>
+    <string name="following">following</string>
+</resources>
